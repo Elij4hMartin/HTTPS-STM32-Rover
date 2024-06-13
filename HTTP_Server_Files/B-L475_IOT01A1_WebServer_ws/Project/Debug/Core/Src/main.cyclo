@@ -1,0 +1,13 @@
+../Core/Src/main.c:82:5:main	1
+../Core/Src/main.c:130:5:L298n	5
+../Core/Src/main.c:209:12:wifi_start	3
+../Core/Src/main.c:242:5:wifi_connect	3
+../Core/Src/main.c:272:5:wifi_server	7
+../Core/Src/main.c:321:13:WebServerProcess	15
+../Core/Src/main.c:419:22:SendWebPage	26
+../Core/Src/main.c:508:13:SystemClock_Config	3
+../Core/Src/main.c:549:13:MX_TIM2_Init	1
+../Core/Src/main.c:601:13:MX_GPIO_Init	1
+../Core/Src/main.c:652:1:__io_putchar	1
+../Core/Src/main.c:688:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:709:6:SPI3_IRQHandler	1
