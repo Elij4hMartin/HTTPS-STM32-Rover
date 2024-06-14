@@ -15,7 +15,7 @@ ENEE459V
 **Wiring Diagram:** 
 **Note:** I used an Arduino UNO in my diagram as a stand in for the Arduino headers on the  B-L475\_IOT01A1, **you must also put a jumper on the 5V\_ARD header pin on the underside of the B-L475\_IOT01A1 to use the VIN pin on the microcontroller otherwise the board won’t power on.**
 
-![Wiring Diagram](./Media/Picture2.png = 250x250)
+![Wiring Diagram](./Media/Picture2.png)
 
 **Large Photo of Completed Project for Reference:**
 
